@@ -72,6 +72,19 @@ nav {
     background-position: center;
 }
 
+.header-eigenWebservice {
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: normal;
+    font-size: 1em;
+    color: rgb(116, 160, 123);
+    font-weight: bold;
+    background-image: url(../img/Webservice.png);
+    background-size: cover;
+    background-position: center;
+}
 
 section {
     display: flex;
@@ -97,7 +110,7 @@ section {
 .projectCards h3 {
     text-align: center;
     background-color: rgb(255, 255, 255);
-    margin-left: 10vw;
+    margin-left: 5vw;
     width: 14vw;
     border-radius: 15px;
     padding: 1vw;
@@ -162,6 +175,12 @@ a:hover {
     color: currentColor;
 }
 
+p a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+    cursor: pointer;
+}
 
 footer {
     background-color: rgba(43, 43, 43, 0.76);
