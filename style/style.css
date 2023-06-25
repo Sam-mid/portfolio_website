@@ -1,9 +1,9 @@
 body {
     background-size: initial;
     background-image: url("../img/beige_wall_001_nor_dx_1k.jpg");
-    background-color: rgb(225, 255, 224);
+    background-color: rgb(170, 222, 188);
     background-blend-mode: luminosity;
-    font-family: "Mukta", sans-serif;
+    font-family: "Roboto Slab", serif;
     box-sizing: border-box;
     margin: 0;
 }
